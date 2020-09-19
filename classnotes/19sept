@@ -1,0 +1,16 @@
+echo "# Sept6pm-FullStack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+
+git config --global user.name "narasimhareddyprostack" 
+
+git config --global user.email "narasimhareddyk18@gmail.com"
+
+
+git remote add origin https://github.com/narasimhareddyprostack/Sept6pm-FullStack.git
+git push -u origin master
+
+
+https://gitexplorer.com/
